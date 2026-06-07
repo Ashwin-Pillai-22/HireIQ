@@ -1,0 +1,10 @@
+# Ignore local environment secrets
+.env
+.env.local
+
+# Ignore auto-generated build production files
+hireIQ/dist/
+dist/
+
+# Ignore dependency folders
+node_modules/

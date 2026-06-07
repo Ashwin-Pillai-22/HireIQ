@@ -1,0 +1,406 @@
+{
+    "0006cdef-96b0-4b72-acb8-fa2d09b62fe6": {
+        "createdAt": "2026-03-06T04:00:35.525527+00:00",
+        "status": "ongoing",
+        "topic": "java",
+        "userId": "user2",
+        "currentIndex": 1
+    },
+    "0dbd96b0-2b16-410d-ad22-83a3db88a968": {
+        "createdAt": "2026-04-14T09:28:45.567166+00:00",
+        "status": "ongoing",
+        "topic": "Frontend developer ",
+        "userId": "user2",
+        "currentIndex": -1
+    },
+    "1c87ad7f-d05d-4310-979a-073f9bdcdd22": {
+        "createdAt": "2026-03-06T08:38:46.429735+00:00",
+        "status": "ongoing",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 1
+    },
+    "26305a2b-3bac-429d-849b-db62080ddc17": {
+        "createdAt": "2026-03-05T05:12:19.756035+00:00",
+        "status": "ongoing",
+        "currentIndex": -1,
+        "userId": "user2",
+        "topic": "python"
+    },
+    "2837e2d0-e83a-4aab-91d8-301e7586c4d3": {
+        "createdAt": "2026-04-12T11:29:55.737760+00:00",
+        "completedAt": "2026-04-12T11:32:49.151443+00:00",
+        "topic": "python dev",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "29b11162-b60c-4009-ad0a-2663787f9578": {
+        "createdAt": "2026-03-18T07:47:42.609946+00:00",
+        "status": "ongoing",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 1
+    },
+    "31b2737d-7378-4214-8af9-0d8393123ae9": {
+        "createdAt": "2026-04-11T12:01:13.538832+00:00",
+        "completedAt": "2026-04-11T12:03:40.935907+00:00",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "37d5d8ef-bf76-48f8-b312-1f6130f07ab0": {
+        "createdAt": "2026-03-04T07:23:33.617479+00:00",
+        "status": "ongoing",
+        "currentIndex": -1,
+        "userId": "user2",
+        "topic": "python"
+    },
+    "3e5b529a-5017-42c3-9a6d-b18ff3b4517e": {
+        "createdAt": "2026-03-04T07:44:36.555108+00:00",
+        "completedAt": "2026-03-04T07:47:27.860489+00:00",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "47b081a3-f093-4709-8a19-dd0cbbbbd6f5": {
+        "createdAt": "2026-04-14T09:29:28.964496+00:00",
+        "completedAt": "2026-04-14T09:52:09.219152+00:00",
+        "topic": "Hardware Engineer ",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "4c848ca9-9562-4edc-8b09-eaa8eab264c0": {
+        "createdAt": "2026-04-14T07:01:57.763350+00:00",
+        "completedAt": "2026-04-14T07:04:09.737746+00:00",
+        "topic": "Web dev",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "563ff3b2-09bf-4726-bb23-0280d5c52b0a": {
+        "createdAt": "2026-04-13T11:48:24.747397+00:00",
+        "status": "ongoing",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 1
+    },
+    "5db65122-bb8a-4553-9795-25eaff2e5242": {
+        "createdAt": "2026-04-16T11:58:24.510900+00:00",
+        "status": "ongoing",
+        "topic": "Chartered Accoutant",
+        "userId": "Hu5eP4jRSYMx8AP1kyXiVa5KJDh2",
+        "currentIndex": 2
+    },
+    "5f5d1392-9924-497d-8aec-ac0bd9f7af8a": {
+        "createdAt": "2026-04-14T19:02:40.861767+00:00",
+        "completedAt": "2026-04-14T19:05:49.663715+00:00",
+        "topic": "Front end ",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "5fa54e76-7b2d-4319-b642-8e60485ca007": {
+        "createdAt": "2026-04-14T04:57:17.440542+00:00",
+        "completedAt": "2026-04-14T05:00:50.175065+00:00",
+        "topic": "oython",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "645e7e1c-e89c-4b0d-8fc4-a2ee3a704cfb": {
+        "createdAt": "2026-04-16T11:53:15.518625+00:00",
+        "status": "ongoing",
+        "topic": "python",
+        "userId": "Hu5eP4jRSYMx8AP1kyXiVa5KJDh2",
+        "currentIndex": 10
+    },
+    "6bb832b8-e915-45fe-94dd-cb2c9b5c3740": {
+        "createdAt": "2026-03-05T06:23:17.054362+00:00",
+        "status": "ongoing",
+        "currentIndex": -1,
+        "userId": "user2",
+        "topic": "python"
+    },
+    "6fd665d8-9196-4eb8-96f3-622a3add2328": {
+        "createdAt": "2026-03-04T07:08:00.894252+00:00",
+        "status": "ongoing",
+        "currentIndex": -1,
+        "userId": "user2",
+        "topic": "python"
+    },
+    "733a5042-0f26-4f16-b74f-87a7480670e7": {
+        "createdAt": "2026-04-12T12:31:43.430410+00:00",
+        "completedAt": "2026-04-12T12:33:28.883897+00:00",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "733d4ad0-03e4-4ac3-b68b-bdf4ed35fdc6": {
+        "createdAt": "2026-04-14T18:57:51.861086+00:00",
+        "status": "ongoing",
+        "topic": "GATE",
+        "userId": "user2",
+        "currentIndex": 19
+    },
+    "785798c2-b3f6-4244-abab-5344737d7c94": {
+        "createdAt": "2026-04-12T11:55:20.806417+00:00",
+        "completedAt": "2026-04-12T11:56:51.310138+00:00",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "7f16f4f9-20b1-48e4-8d82-9b26516381ca": {
+        "createdAt": "2026-03-05T07:59:54.696519+00:00",
+        "completedAt": "2026-03-05T08:09:26.910226+00:00",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "8384412e-9646-4594-be6e-50746efd263d": {
+        "createdAt": "2026-04-11T11:51:20.796460+00:00",
+        "completedAt": "2026-04-11T11:54:12.507999+00:00",
+        "topic": "python ",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "895719fb-e44f-43e0-822e-67cd419995b0": {
+        "createdAt": "2026-04-16T13:16:29.320391+00:00",
+        "status": "ongoing",
+        "topic": "js",
+        "userId": "Hu5eP4jRSYMx8AP1kyXiVa5KJDh2",
+        "currentIndex": 19
+    },
+    "8cf09aa1-3f62-4bbf-bb0b-f1e519c7b075": {
+        "createdAt": "2026-04-12T12:27:36.451909+00:00",
+        "completedAt": "2026-04-12T12:30:11.259341+00:00",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "8eccfa54-54cf-4627-ba4f-f256974326aa": {
+        "createdAt": "2026-04-11T11:45:40.303360+00:00",
+        "completedAt": "2026-04-11T11:48:05.102071+00:00",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "949eb23f-3308-4581-98f4-31351ad606a8": {
+        "createdAt": "2026-04-14T18:52:49.135942+00:00",
+        "status": "ongoing",
+        "topic": "Frontend developer ",
+        "userId": "user2",
+        "currentIndex": 2
+    },
+    "99b78abe-02c1-4dbe-a5b9-9fe2c2701c2a": {
+        "createdAt": "2026-04-12T09:32:40.366163+00:00",
+        "completedAt": "2026-04-12T09:34:43.799671+00:00",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "9b1f5c3a-b37f-4e4c-886c-c3e97e073e6e": {
+        "createdAt": "2026-03-04T07:24:55.909201+00:00",
+        "status": "ongoing",
+        "currentIndex": -1,
+        "userId": "user2",
+        "topic": "python"
+    },
+    "9ea9164b-cece-456b-8e8f-d40551f34d83": {
+        "createdAt": "2026-04-16T13:00:20.276621+00:00",
+        "status": "ongoing",
+        "topic": "python",
+        "userId": "Hu5eP4jRSYMx8AP1kyXiVa5KJDh2",
+        "currentIndex": 19
+    },
+    "a1c89fcb-3767-4428-8f70-dd010f2091dd": {
+        "createdAt": "2026-04-14T19:01:45.673508+00:00",
+        "completedAt": "2026-04-14T19:10:16.344421+00:00",
+        "topic": "Data Analyst ",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "a2e752e5-5a4f-4366-9630-2d63280d201e": {
+        "createdAt": "2026-03-04T06:47:44.499162+00:00",
+        "status": "ongoing",
+        "currentIndex": -1,
+        "userId": "user2",
+        "topic": "python"
+    },
+    "a6296a68-3310-48c8-87be-6a67cbd3d85e": {
+        "createdAt": "2026-03-05T06:44:25.502703+00:00",
+        "status": "ongoing",
+        "currentIndex": -1,
+        "userId": "user2",
+        "topic": "python"
+    },
+    "a884b6ec-6f4f-471a-a481-099a87099071": {
+        "createdAt": "2026-04-16T11:54:29.168168+00:00",
+        "completedAt": "2026-04-16T11:56:06.152923+00:00",
+        "topic": "python",
+        "userId": "Hu5eP4jRSYMx8AP1kyXiVa5KJDh2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "b236e6de-b15f-47ca-a963-849f84b5bf94": {
+        "createdAt": "2026-04-14T08:56:35.263389+00:00",
+        "completedAt": "2026-04-14T09:05:22.448933+00:00",
+        "topic": "Front end developer ",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "b887ee1a-e62f-4aa0-8ac9-bf04e6b2baf0": {
+        "createdAt": "2026-04-16T13:21:02.555009+00:00",
+        "completedAt": "2026-04-16T13:22:44.404662+00:00",
+        "topic": "testing",
+        "userId": "Hu5eP4jRSYMx8AP1kyXiVa5KJDh2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "b9578174-1d37-4427-a8ca-780129c63a2b": {
+        "createdAt": "2026-04-12T12:10:30.650205+00:00",
+        "completedAt": "2026-04-12T12:17:09.891150+00:00",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "bb1da9f9-4152-4594-be71-03ecf2ab31ae": {
+        "createdAt": "2026-04-14T05:48:16.104873+00:00",
+        "completedAt": "2026-04-14T05:49:40.454620+00:00",
+        "topic": "py",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "be7e5f87-f263-4333-ac1f-114ba43a92d0": {
+        "createdAt": "2026-04-12T09:20:47.938516+00:00",
+        "completedAt": "2026-04-12T09:21:53.465701+00:00",
+        "topic": "pythonq",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "bf343649-4505-44e5-aec5-9cfe01feee79": {
+        "createdAt": "2026-04-14T06:56:47.330532+00:00",
+        "completedAt": "2026-04-14T06:58:02.769158+00:00",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "c63abbfd-8088-41c0-9dd6-2a50e4079bec": {
+        "createdAt": "2026-04-12T12:53:59.024677+00:00",
+        "completedAt": "2026-04-12T12:54:56.943893+00:00",
+        "topic": "pythono",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "c710bed8-553d-4db4-9b1f-d97bbc0cebe1": {
+        "createdAt": "2026-03-05T06:54:00.856250+00:00",
+        "status": "ongoing",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 1
+    },
+    "c8a657ef-6b40-414d-9399-2b1dddc65017": {
+        "createdAt": "2026-04-16T11:49:46.329471+00:00",
+        "status": "ongoing",
+        "topic": "python",
+        "userId": "Hu5eP4jRSYMx8AP1kyXiVa5KJDh2",
+        "currentIndex": 10
+    },
+    "ce35fa41-34db-4d2e-bcfe-cf689194fbd0": {
+        "createdAt": "2026-03-05T06:37:15.176420+00:00",
+        "status": "ongoing",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 1
+    },
+    "cf0e8b52-62d7-461f-81c7-d1fa86db9f15": {
+        "createdAt": "2026-04-16T11:52:07.098116+00:00",
+        "status": "ongoing",
+        "topic": "python",
+        "userId": "Hu5eP4jRSYMx8AP1kyXiVa5KJDh2",
+        "currentIndex": 10
+    },
+    "cf9913af-999b-4f0a-ad3e-e5f937ac7421": {
+        "createdAt": "2026-04-12T09:13:42.094752+00:00",
+        "completedAt": "2026-04-12T09:16:54.208736+00:00",
+        "topic": "Frontend DEveloper",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "d111388a-2d17-4fd3-b8ef-816a6e9c9bdb": {
+        "createdAt": "2026-04-14T19:14:15.749138+00:00",
+        "status": "ongoing",
+        "topic": "UPSC preparation ",
+        "userId": "user2",
+        "currentIndex": 7
+    },
+    "d396d9f7-3bc6-4798-a659-af925b9f066d": {
+        "createdAt": "2026-04-14T05:42:06.974005+00:00",
+        "completedAt": "2026-04-14T05:42:52.495828+00:00",
+        "topic": "vbjh",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "d45389ed-ebf1-4a02-a507-87f93a4a8051": {
+        "createdAt": "2026-04-16T11:57:37.071998+00:00",
+        "status": "ongoing",
+        "topic": "CA",
+        "userId": "Hu5eP4jRSYMx8AP1kyXiVa5KJDh2",
+        "currentIndex": -1
+    },
+    "e5e32cac-db8e-4584-a09b-927f9d2f34fb": {
+        "createdAt": "2026-03-04T07:17:24.768570+00:00",
+        "status": "ongoing",
+        "currentIndex": -1,
+        "userId": "user2",
+        "topic": "python"
+    },
+    "e6901693-d0cf-43ba-be61-5348f5cfb6f8": {
+        "createdAt": "2026-04-14T09:28:10.461821+00:00",
+        "status": "ongoing",
+        "topic": "Developer ",
+        "userId": "user2",
+        "currentIndex": -1
+    },
+    "eaaeae3c-9150-48b7-8c8a-5684b2096c59": {
+        "createdAt": "2026-04-14T04:51:02.531314+00:00",
+        "completedAt": "2026-04-14T04:51:59.714129+00:00",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 19,
+        "status": "completed"
+    },
+    "ef4a6eb1-f418-4643-b566-76123179c176": {
+        "createdAt": "2026-03-05T05:21:52.615123+00:00",
+        "status": "ongoing",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 2
+    },
+    "f7d71831-e2e3-4b24-8258-2b1c384a8f61": {
+        "createdAt": "2026-03-18T07:16:02.412329+00:00",
+        "status": "ongoing",
+        "topic": "python",
+        "userId": "user2",
+        "currentIndex": 1
+    }
+}
